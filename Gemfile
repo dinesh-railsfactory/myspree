@@ -1,5 +1,4 @@
 source 'https://rubygems.org'
-
 gem 'rails'
 
 # Bundle edge Rails instead:
